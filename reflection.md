@@ -1,8 +1,7 @@
 # Reflection — Version Control Using GitHub
 
-**Name:** Fathima Nidha  
-**Course:** (Write your course name here)  
-**Date:** 07/11/2025
+**Name:** Fathima Nidha   
+**Date:** 03/11/2025
 
 ## What I did
 I created a GitHub repository named `data-analytics-version-control`, added a README file, a Python script (`data_cleaning.py`), and this reflection file to demonstrate basic version control using GitHub’s web interface.
