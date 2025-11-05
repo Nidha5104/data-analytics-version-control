@@ -1,23 +1,7 @@
-# Reflection — Version Control Using GitHub
+Reflection on Version Control Using Git & GitHub
 
-**Name:** Fathima Nidha   
-**Date:** 03/11/2025
+Version control is an essential practice in data analytics and software development, as it enables efficient project tracking, collaboration, and workflow management. Through this assignment, I learned how Git helps maintain a complete history of changes, supports safe experimentation through branching, and ensures that work remains recoverable and reproducible.
 
-## What I did
-I created a GitHub repository named `data-analytics-version-control`, added a README file, a Python script (`data_cleaning.py`), and this reflection file to demonstrate basic version control using GitHub’s web interface.
+I set up Git on my local machine, configured my identity, and initialized a repository. I created sample project files including a Python script and a README, staged them, and performed my first commit. I then connected my local repository to GitHub and successfully pushed my project to a remote repository. During the process, I also learned how authentication is handled using Personal Access Tokens instead of passwords, which reinforced the importance of secure access control.
 
-## What I learned
-- How to create a repository on GitHub.
-- How to add files and commit changes using the web interface.
-- The importance of version control for managing and tracking code.
-
-## Challenges and Solutions
-- **Challenge:** Understanding where to commit changes.  
-  **Solution:** Used GitHub’s “Commit changes” button and followed clear commit messages.
-
-## Next Steps
-- Learn to use Git commands locally (git init, git add, git commit, git push).
-- Experiment with branching and merging.
-- Use GitHub for larger data analytics projects.
-
-**GitHub repo link:** https://github.com/Nidha5104/data-analytics-version-control
+This hands-on task increased my understanding of Git workflows, including initializing repositories, tracking file changes, committing updates, managing remotes, and uploading code to GitHub. I now feel more confident in applying version control to future data analytics projects and collaborative development work.
